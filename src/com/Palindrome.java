@@ -1,5 +1,5 @@
 package com;
-
+//4- Palindrome String
 public class Palindrome {
     public static void main(String[] args) {
         String word = "racecar"; // Change this string to check for different words
